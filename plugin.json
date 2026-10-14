@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "taxweave-agent-guides",
+  "version": "1.0.0",
+  "description": "First-party skills for evaluating TaxWeave and estimating its published pricing.",
+  "author": { "name": "TaxWeave", "url": "https://taxweave.ai" },
+  "homepage": "https://taxweave.ai/agents",
+  "repository": "https://github.com/millennialcpa/taxweave-agent-guides",
+  "keywords": ["taxweave", "tax-firms", "workpapers", "pricing"]
+}
